@@ -1,0 +1,17 @@
+{
+  "name": "babylonapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^5.28.0",
+    "babylonjs-loaders": "^5.28.0",
+    "babylonjs-procedural-textures": "^5.28.0"
+  }
+}
